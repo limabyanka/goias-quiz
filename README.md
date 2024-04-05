@@ -1,6 +1,8 @@
 # Goiás Quiz 🍽️🌽
 
-Goiás Quiz é um aplicativo interativo que desafia seu conhecimento sobre as deliciosas comidas típicas do estado de Goiás, Brasil. Este quiz foi criado para proporcionar uma experiência divertida e educativa para todos que desejam aprender mais sobre a rica culinária goiana.
+Goiás Quiz é um aplicativo interativo que desafia seu conhecimento sobre as deliciosas comidas típicas do estado de Goiás, Brasil. Este quiz foi criado para proporcionar uma experiência divertida e educativa para todos que desejam aprender mais sobre a rica culinária goiana. 
+
+**Jogue Online**: Acesse https://romaodesouza.github.io/goias-quiz para jogar online diretamente do seu navegador.
 
 ## Novidades em Breve! 🎉
 
@@ -14,10 +16,16 @@ Estamos trabalhando para trazer ainda mais modos de quiz para você! Em breve, a
 
 ## Como Jogar 🎮
 
-1. Clone o repositório para sua máquina local.
-2. Instale todas as dependências usando `npm install`.
-3. Inicie o aplicativo usando `npm start`.
-4. Abra seu navegador e visite `http://localhost:3000` para começar o quiz!
+Há duas maneiras de jogar o Goiás Quiz:
+
+1. **Jogue Online**: Acesse https://romaodesouza.github.io/goias-quiz para jogar online diretamente do seu navegador.
+
+2. **Jogue Localmente**: Siga os passos abaixo para rodar o Goiás Quiz na sua própria máquina:
+   - Clone o repositório para sua máquina local usando `git clone https://github.com/romaodesouza/goias-quiz.git`.
+   - Navegue até o diretório do projeto com `cd goias-quiz`.
+   - Instale todas as dependências do projeto com `npm install`.
+   - Inicie o aplicativo com `npm start`.
+   - Abra seu navegador e visite `http://localhost:3000` para começar o quiz!
 
 ## Contribuindo 🤝
 
